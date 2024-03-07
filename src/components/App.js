@@ -1,6 +1,6 @@
 import "./App.css";
 import Logo from "../img/logo.png";
-import background1 from "../img/background1.png";
+import MainForm from "./MainForm";
 function App() {
   return (
     <div id="app">
@@ -14,11 +14,7 @@ function App() {
         </nav>
       </header>
       <main>
-        <form className="form">
-          <h1>Login</h1>
-          <input type="text" />
-          <input type="text" />
-        </form>
+        <MainForm />
       </main>
       <footer>footer</footer>
     </div>

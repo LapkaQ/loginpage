@@ -68,12 +68,3 @@ nav button:hover {
   background-color: #ceddc6;
   color: #0e4653;
 }
-.form {
-  height: 600px;
-  width: 500px;
-  background: transparent;
-  /* border: 2px solid rgb(170, 255, 124, 0.5); */
-  backdrop-filter: blur(10px);
-  box-shadow: 0 0 10px black;
-  border-radius: 30px;
-}
