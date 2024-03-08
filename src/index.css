@@ -6,11 +6,11 @@ body {
   padding: 0px;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
-  height: 100vh;
-
   background-image: url("background.png");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 main {
 }
